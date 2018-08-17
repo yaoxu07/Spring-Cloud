@@ -1,0 +1,4 @@
+com\yx\pojo\HelloPojo.class
+com\yx\service\HelloService.class
+com\yx\consumerclient\FeignClientApplication.class
+com\yx\controller\HelloController.class

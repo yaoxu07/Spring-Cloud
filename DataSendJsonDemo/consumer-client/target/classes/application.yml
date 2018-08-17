@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SpringCloud-Feign-Client
+eureka:
+  client:
+    service-url:
+     defaultZone: http://user:admin@localhost:8761/eureka
+  instance:
+    instance-id:  ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+server:
+  port: 9090
