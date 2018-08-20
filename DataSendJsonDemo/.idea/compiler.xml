@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="consumer-client" />
         <module name="consumerclient" />
         <module name="eureka-server" />
+        <module name="provider-client" />
         <module name="providerclient" />
       </profile>
     </annotationProcessing>

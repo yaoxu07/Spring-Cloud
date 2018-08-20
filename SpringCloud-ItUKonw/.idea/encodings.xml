@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-Provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-hystrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-hystrix-consumer-node1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-hystrix-consumer-node2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Cloud-hystrix-consumer-node2 - 副本" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-HystrixDashBoard-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-producer" charset="UTF-8" />
+  </component>
+</project>
